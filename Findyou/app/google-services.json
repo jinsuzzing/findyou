@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175350308057",
+    "project_id": "findyou-778c6",
+    "storage_bucket": "findyou-778c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175350308057:android:3210a8399fafa08b65b2c8",
+        "android_client_info": {
+          "package_name": "com.jinsu.findyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175350308057-1f8as233sc2oolkkgdg7m5okac1nqubq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvD2pUVST19t63ngn_LM3Al-1S-YgChTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175350308057-1f8as233sc2oolkkgdg7m5okac1nqubq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
